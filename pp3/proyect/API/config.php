@@ -1,0 +1,26 @@
+<?php
+// insert data of conexion 
+/*$host="localhost";
+$dbname="prueba";
+$username="postgres";
+$pass="12345";
+$port="5432";
+//////////////////////////
+$host='localhost';
+$dbname='prueba';
+$username='postgres';
+$pass='12345';
+$port='5432';
+##########################
+$host="localhost";
+$dbname="agenda";
+$username="polo";
+$pass="adc12345";
+$port="5432";*/
+/////////////////////////
+$host='localhost';
+$dbname='agenda';
+$username='polo';
+$pass='adc12345';
+$port='5432';
+?>
